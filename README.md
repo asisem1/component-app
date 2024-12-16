@@ -1,1 +1,1 @@
-# component-app
+# bracu_component
